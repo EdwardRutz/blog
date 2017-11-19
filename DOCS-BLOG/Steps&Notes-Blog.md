@@ -19,5 +19,12 @@
   - Creates several files and a route.
 
   ```rails generate controller Welcome index```
+- First Commit, 
+  ```
+      git add -A 
+      git commit -m "Initial Repository"
+  ```
+
+- Create rout in ```config/routes.rb```
 
 

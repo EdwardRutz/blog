@@ -20,7 +20,8 @@ Exercise, creating a basic blog Rails app.
 - Exercise from http://guides.rubyonrails.org/getting_started.html
 - [Configuring Rails Applications](http://guides.rubyonrails.org/configuring.html)
 - http://bundler.io/
-
+- [Routing](http://guides.rubyonrails.org/routing.html)
+- [Domain Specific Language (DSL)](https://en.wikipedia.org/wiki/Domain-specific_language)
 
 
 

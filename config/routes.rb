@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
-  get 'welcome/index'
+  get 'welcome/index' # Created when generated the welcome controller
+    # Map requests to http://localhost:3000/welcome/index to controller's index action
 
-  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+  root 'welcome#index' # Map request for root to to the controllers "welcome" action.
 end
